@@ -1,3 +1,3 @@
-alias sc='script/console'
-alias sg='script/generate'
-alias sd='script/destroy'
+alias r='rails'
+alias td='tail -f log/development'
+alias rk='bin/rake'
